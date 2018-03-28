@@ -37,7 +37,9 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 
 
 ## BUSINESS MODEL CANVAS
-![Business Model Canvas](assets/bmc.JPG "Business Model Canvas")
+![Business Model Canvas](ux/assets/bmc-comprador.png "Business Model Canvas Comprador")
+
+![Business Model Canvas](ux/assets/bmc-admin.png "Business Model Canvas Administrador")
 
 
 ## PLAN DE INVESTIGACIÓN
