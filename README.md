@@ -2,7 +2,7 @@
 
 
 ## PROBLEMA
-Las páginas de tienda para damas no tienen la información de los productos ni el stock actualizado.
+Las páginas de tiendas para damas no siempre tienen la información ni el stock actualizado de los productos.
 
 
 ## RETO
@@ -135,7 +135,7 @@ En base a la información recabada decidimos enfocarnos en los siguientes benefi
 
 **USER PERSONA**
 
-![User Persona](assets/user-persona.png "User Persona")
+![User Persona](ux/assets/user-persona.png "User Persona")
 
 ### 3. Prototipado y Testing
 **PAPER PROTOTYPING**
