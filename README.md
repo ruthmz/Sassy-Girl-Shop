@@ -128,7 +128,7 @@ En base a la información recabada decidimos enfocarnos en los siguientes benefi
 
 **USER PERSONA**
 
-![User Persona](assets/User-Persona.jpg "User Persona")
+![User Persona](assets/user-persona.png "User Persona")
 
 ### 3. Prototipado y Testing
 **PAPER PROTOTYPING**
