@@ -75,7 +75,18 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 - [Encuestas online](https://docs.google.com/forms/d/e/1FAIpQLSdsot1wmRGD46ARa3YwvIAklEjfI7VOVnMYm07HAD3izOiCGA/viewform)
 Se realizó encuestas que fueron enviadas a un público de alrededor 40 personas a través de internet, con la finalidad de darnos una idea de la situación actual, características de los usuarios, comportamientos financieros, preferencias, problemática, etc.
 - Entrevistas a profundidad
-![Encuesta](assets/encuesta.jpg "Encuesta")
+![Encuesta](ux/assets/re-1.png "Encuesta")
+![Encuesta](ux/assets/re-2.png "Encuesta")
+![Encuesta](ux/assets/re-3.png "Encuesta")
+![Encuesta](ux/assets/re-4.png "Encuesta")
+![Encuesta](ux/assets/re-5.png "Encuesta")
+![Encuesta](ux/assets/re-6.png "Encuesta")
+![Encuesta](ux/assets/re-7.png "Encuesta")
+![Encuesta](ux/assets/re-8.png "Encuesta")
+![Encuesta](ux/assets/re-9.png "Encuesta")
+![Encuesta](ux/assets/re-10.png "Encuesta")
+![Encuesta](ux/assets/re-11.png "Encuesta")
+![Encuesta](ux/assets/re-12.png "Encuesta")
 
 ### 2. Síntesis e Ideación
 En esta etapa nos enfocamos en obtener los insights de los usuarios a través de la recopilación y análisis de información de nuestra investigación.
