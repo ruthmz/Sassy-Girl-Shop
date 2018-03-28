@@ -1,4 +1,4 @@
-![Logo](assets/logo.png "Sassy Girl")
+![Logo](ux/assets/logo.png "Sassy Girl")
 
 
 ## PROBLEMA
@@ -37,7 +37,11 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 
 
 ## BUSINESS MODEL CANVAS
+### ORIENTADO A COMPRADORES
+
 ![Business Model Canvas](ux/assets/bmc-comprador.png "Business Model Canvas Comprador")
+
+### ORIENTADO A ADMINISTRADORES
 
 ![Business Model Canvas](ux/assets/bmc-admin.png "Business Model Canvas Administrador")
 
