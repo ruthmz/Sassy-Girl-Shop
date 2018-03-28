@@ -48,13 +48,14 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 
 ## PLAN DE INVESTIGACIÓN
 ### OBJETIVOS
-- Comprender mejor qué información es relevante para los millennials.
+- Comprender qué tipo de productos son los que adquiere con mayor frecuencia nuestro público objetivo.
 
-- Conocer qué información motiva a los millennials a tomar decisiones financieras ¿Qué les importa a los millennials? ¿Qué los motiva?
+- Entender el proceso realizan antes y durante de realizar una compra nuestro público objetivo.
 
-- Conocer información  sobre las frustraciones  de los millennials , lo que los frustra no solo desde una perspectiva digital, sino también no digital. desde el momento en que el cliente entra al banco y habla con el personal, hasta la salida del establecimiento.Todos los detalles.La experiencia de usuario es todo. ¿Qué frustra a tus usuarios? ¿Qué necesidades tienen que no están siendo satisfechas?
+- Conocer que influye en la decisión y elección de nuestro público objetivo al realizar una compra.
 
-- Conocer la interacción de los millennials con su entorno, tener una perspectiva holística nos dará una mejor idea del contexto del por qué toman ciertos caminos.
+-  Determinar las características principales de nuestro usuario.
+
 
 **HERRAMIENTAS**
 - Benchmarking
