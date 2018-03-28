@@ -67,7 +67,7 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 
 **ACTIVIDADES PLANEADAS**
 ## ETAPAS
-![Plan](assets/plan.JPG "Plan")
+![Plan](assets/planner.png "Plan")
 
 ### 1. Descubrimiento e investigación
 
