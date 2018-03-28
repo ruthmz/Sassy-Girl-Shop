@@ -1,11 +1,21 @@
-# Sassy Girl
+![Logo](assets/logo.jpg "Sassy Girl")
 
-# Banca Digital
-El Banco del País es uno de los bancos más importante del país. Esta institución actualmente está pasando por un proceso de transformación digital. Como parte de este proceso, han implementado un área de innovación que quiere llegar de una mejor manera a los usuarios más jóvenes (millennials).
-## DESCUBRIMIENTO E INVESTIGACIÓN
 
-Realizamos la búsqueda de información  online (webs, foros, videos, etc) sobre nuestro público objetivo(Millenials) para poder conocer
-sus características , también sobre el impacto de la tecnología en las finanzas (Fénomeno Fintech).
+## PROBLEMA
+Las páginas de tiendas no tienen la información de los productos y el stock actualizado.
+
+
+## RETO
+Realizar una página que tengas las dos siguientes vistas:
+- Comprador:
+Brindar un catálogo online que permite ver los precios, stock, fotos y detalle de los productos.
+- Administrador:
+Puede agregar editar, eliminar, actualizar productos 
+
+
+**Público Objetivo**
+- Millenials mujeres de 18 a 35 años
+
 
 ## Benchmarking
 Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación inmediato con respecto a nuestros iguales (competidores directos e indirectos) permitiéndonos saber si estamos haciendo bien las cosas o si tenemos margen para mejorarlas y detectar oportunidades, amenazas así como debilidades y fortalezas que provienen de nuestro entorno de competidores.
@@ -14,13 +24,9 @@ Realizamos un estudio de Benchmarking , nos ofrece un contexto de comparación i
 ## STAKEHOLDERS
 - CEO
 - Gerente de Marketing
-- Jefe de innovación
-- Gerente de Banca
-- Asesor legal
-- Jefe de ventas
-- Regulador estatal
-- Funcionario de SBS
-- Millenialls
+- Director de proyecto
+- Diseñador web
+- Millenialls mujeres
 
 ## REUNIÓN KICK OFF
 [**AGENDA DE ACTIVIDADES**](http://docs.google.com/document/d/1_vooE_yBEE2rj1v3dcruDtJjUTviaZnZblBrozv6L0I/edit)
