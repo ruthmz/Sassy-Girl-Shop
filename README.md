@@ -1,4 +1,4 @@
-![Logo](assets/logo.jpg "Sassy Girl")
+![Logo](assets/logo.png "Sassy Girl")
 
 
 ## PROBLEMA
