@@ -2,7 +2,7 @@
 
 
 ## PROBLEMA
-Las páginas de tiendas no tienen la información de los productos y el stock actualizado.
+Las páginas de tienda para damas no tienen la información de los productos ni el stock actualizado.
 
 
 ## RETO
